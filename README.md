@@ -1,2 +1,2 @@
-# f-episode-generator
+# friends-episode-generator
 Friends episode generator
